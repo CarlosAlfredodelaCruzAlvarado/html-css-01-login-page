@@ -123,7 +123,7 @@
 }
 
 .bg{
-    background-image: URL(/img/background.jpg);
+    background-image: URL(img/background.jpg);
     filter: blur(5+px);
     width: 50vw;
     height: 100vh;
